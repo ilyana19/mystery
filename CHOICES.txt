@@ -7,3 +7,4 @@ Fourth Choice: Talk to them directly.
 Fifth Choice: Approach Billy.
 
 6) Talk to Billy directly.
+7) Approach Danny.
